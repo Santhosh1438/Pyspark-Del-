@@ -1,2 +1,3 @@
-This is my first file
-On Unix and GitLearn Git and Unix
+This is my first file.
+On Unix and Git. 
+Learn Git and Unix
