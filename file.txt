@@ -1,2 +1,0 @@
-This is santhosh
-Learn Git and Unix.
