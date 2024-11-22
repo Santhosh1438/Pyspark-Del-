@@ -1,9 +1,5 @@
 This is my first file.
 On Unix and Git. 
-<<<<<<< HEAD
 Learn Git and Unix.
 Let's begin today's session.
 Hello Santhosh:
-=======
-Learn Git and Unix
->>>>>>> parent of da2c608 (Changes made for today)
